@@ -1,0 +1,67 @@
+﻿<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="" />
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">-->
+    <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+    <!-- CSS -->
+    <link href="Styles/reset.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="Styles/myStyle.css" rel="stylesheet" type="text/css" />
+
+    <!-- Scripts -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="jScripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <script src="jScripts/JavaScript.js" type="text/javascript"></script>
+</head>
+<body>
+    <div id="container">
+        <!--מסך פתיחה-->
+        <div id="navOp">
+            <img id="myLogo" src="images/logo.png" />
+            <button type="button" id="student" class="btn btn-success btn-lg opBut ">כניסה לתלמיד</button>
+            <button type="button" id="techer" class="btn btn-success btn-lg opBut greenNo">כניסה למורה</button>
+        </div>
+        <!--הקוד-->
+        <div id="myCode" class="opBut">
+
+
+            <label for="NameStudent" class="textwith">כתוב את שמך</label>
+            <input type="text" class="form-control" id="NameStudent" placeholder="כתוב את שמך">
+
+            <label for="codeGame" class="textwith">קוד משחק</label>
+            <input type="number" class="form-control" id="codeGame" placeholder="כתוב קוד משחק">
+            <button type="button" id="start" class="btn btn-success btn-lg secendBut">כניסה</button>
+        </div>
+        <!--המחולל-->
+        <!--הדפים-->
+        <div id="pageOrgin">
+            <div id="imagepage" class="row"></div>
+            
+                <a href="#" type="button" id="QutisionBut" class="btn btn-success btn-lg opBut2">המשך</a>
+            
+        </div>
+        <!--השאלה-->
+        <div id="QuizPage">
+            <div class="row" id="imageQuiz"></div>
+            <div class="row">
+
+                <a href="#" type="button" id="Q1" class="btn btn-success  col"></a>
+                <a href="#" type="button" id="Q3" class="btn btn-success  col"></a>
+                <a href="#" type="button" id="Q2" class="btn btn-success  col"></a>
+
+            </div>
+        </div>
+        <div id="TheEnd">
+            <img src="images/bac3.png" width="100%" height="100%" />
+            <h1 id="myName"></h1>
+            <p id="Masov"></p>
+        </div>
+    </div>
+</body>
+</html>

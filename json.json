@@ -1,0 +1,309 @@
+﻿{
+	"allApp": {
+		"games": {
+			"game": [
+				{
+					"page": [
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name.png"
+							},
+							"discripsion": "",
+							"_id": "1",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name1.png"
+							},
+							"discripsion": "",
+							"_id": "2",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name2.png"
+							},
+							"myseala": [
+								{
+									"_linke": "4",
+									"_tayp": "text",
+									"__text": "לא לשלוח"
+								},
+								{
+									"_linke": "6",
+									"_tayp": "text",
+									"__text": "לשלוח"
+								}
+							],
+							"discripsion": "",
+							"_id": "3",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name3.png"
+							},
+							"discripsion": "",
+							"_id": "4",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name4.png"
+							},
+							"discripsion": "",
+							"_id": "5",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name5.png"
+							},
+							"discripsion": "",
+							"_id": "6",
+							"_quiz": "false"
+						}
+					],
+					"_id": "1",
+					"_code": "101"
+				},
+				{
+					"page": [
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story1.png"
+							},
+							"discripsion": "בבית של אורן, אורן מספר לבן ולזיו שהיחסים שלו ושל מאי מתחממים",
+							"_id": "1",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story2.png"
+							},
+							"discripsion": "זיו מציע לאורן לשלוח את התמונה שלו עם הקוביות בבטן",
+							"_id": "2",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story3.png"
+							},
+							"discripsion": "בן מציע לאורן לא לשלוח את התמונה",
+							"_id": "3",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story4.png"
+							},
+							"discripsion": "זיו מתעקש שאורן ישלח את התמונה כדי שמאי לא תחשוב שאורן חנון",
+							"_id": "4",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story5.png"
+							},
+							"discripsion": "",
+							"_id": "5",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story6.png"
+							},
+							"myseala": [
+								{
+									"_linke": "7",
+									"_tayp": "text",
+									"__text": "לא לשלוח"
+								},
+								{
+									"_linke": "10",
+									"_tayp": "text",
+									"__text": "לשלוח"
+								}
+							],
+							"discripsion": "אורן חושב אם כדאי לו לשלוח את התמונה, הוא לא רוצה להיות חנון וגם הוא לא רוצה שהתמונה שלו תופץ ברשת",
+							"_id": "6",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story7.png"
+							},
+							"discripsion": "אורן החליט לא לשלוח את התמונה",
+							"_id": "7",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story8.png"
+							},
+							"discripsion": "עכשיו אורן ומאי חברים הכי טובים",
+							"_id": "8",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story9.png"
+							},
+							"discripsion": "אבל מה היה קורה אם אורן היה מחליט לשלוח את התמונה",
+							"_id": "9",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story10.png"
+							},
+							"discripsion": "בינתיים בבית של מאי",
+							"_id": "10",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story11.png"
+							},
+							"discripsion": "מאי קיבלה תמונה מאורן וחשבה לעצמה שהוא ממש חתיך",
+							"_id": "11",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story12.png"
+							},
+							"discripsion": "מאי סיפרה לרונה וגילי שהיא מעוניינת לשלוח לאורן תמונה שלה",
+							"_id": "12",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story13.png"
+							},
+							"discripsion": "רונה אומרת למאי לשלוח את התמונה",
+							"_id": "13",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story14.png"
+							},
+							"discripsion": "גילי אומרת למאי שלא כדי לשלוח את התמונה מכיוון שהיא לא בטוחה לאיפה התמונה תגיע",
+							"_id": "14",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story15.png"
+							},
+							"discripsion": "",
+							"_id": "15",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story16.png"
+							},
+							"discripsion": "",
+							"_id": "16",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story17.png"
+							},
+							"myseala": [
+								{
+									"_linke": "18",
+									"_tayp": "text",
+									"__text": "לא לשלוח"
+								},
+								{
+									"_linke": "21",
+									"_tayp": "text",
+									"__text": "לשלוח"
+								}
+							],
+							"discripsion": "מאי רוצה שאורן יחשוב שהיא רצינית, אבל היא לא רוצה שהתמונה שלה תופץ ברשת",
+							"_id": "17",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story18.png"
+							},
+							"discripsion": "מאי ואורן חברים למרות שמאי לא שלחה את התמונה",
+							"_id": "18",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story19.png"
+							},
+							"discripsion": "מה היה קורה אם מאי הייתה שלוחת את התמונה",
+							"_id": "19",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story20.png"
+							},
+							"discripsion": "",
+							"_id": "20",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story21.png"
+							},
+							"discripsion": "בינתיים בבית של אורן",
+							"_id": "21",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story22.png"
+							},
+							"discripsion": "ההמשך יבוא",
+							"_id": "22",
+							"_quiz": "false"
+						}
+					],
+					"_id": "2",
+					"_code": "105"
+				}
+			],
+			"_gameNum": "2"
+		}
+	}
+}

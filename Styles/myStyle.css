@@ -1,0 +1,95 @@
+﻿html {
+    overflow-x: hidden;
+}
+
+body {
+    /*background-image: url(../images/bac-02.png);*/
+    background-color: #8E69FF;
+    background-size: 100%;
+
+    /*overflow: hidden;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;*/
+}
+
+.opBut {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 70%;
+}
+.opBut2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.secendBut {
+    margin-top: 10%;
+    width: 100%;
+}
+
+label {
+    direction: rtl;
+    display: block;
+    float: right;
+}
+
+#Q1 {
+    display: block;
+}
+
+#Q1 {
+    display: inline-block;
+}
+
+#Q2 {
+    display: inline-block;
+    float: left;
+}
+
+.myNext {
+    width: 100%;
+}
+
+#myLogo {
+    display: block;
+    width: 70%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+.textwith {
+    color: white;
+}
+
+#myCode {
+    margin-top: 20%;
+}
+
+#myName, #Masov {
+    text-align: right;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#myName {
+    margin-top: 10%;
+}
+
+#QutisionBut {
+    width: 100%;
+}
+.greenNo,greenNo:hover{
+    background-color:green;
+}
+#Q1,#Q3,#Q2{
+    /*padding-top:10%;
+    padding-bottom:10%;*/
+}
